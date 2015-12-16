@@ -3,7 +3,12 @@
 Some examples of Prolog programs.
 
 ## Programs
-- factorial.pl: factorial function.
+- factorial.pl: factorial procedure.
+- power.pl: power procedure.
+- fibonacci.pl: fibonacci procedure.
+- maximum.pl: max2/2 and max3/3 procedures.
+- list.pl: some procedures for lists.
+- graph.pl: some procedures for graphs.
 
 ## Useful commands
 - Load a file: `consult('path-to-file').`
