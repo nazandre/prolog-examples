@@ -10,6 +10,10 @@ Some examples of Prolog programs.
 - Display the current contents of the Prolog database: `listing.`
 - Quit:  `halt.`
 
+## Where can one learn Prolog ?
+
+http://www.learnprolognow.org/lpnpage.php?pageid=teaching
+
 ## Quick example: how to compute the factorial 10 ?
 
 ```
